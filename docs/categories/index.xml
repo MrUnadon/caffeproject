@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on こどもカフェ(仮名)このページは開発中のサンプルページです</title>
+    <link>https://mrunadon.github.io/caffeproject/categories/</link>
+    <description>Recent content in Categories on こどもカフェ(仮名)このページは開発中のサンプルページです</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    
+	<atom:link href="https://mrunadon.github.io/caffeproject/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lorem</title>
+      <link>https://mrunadon.github.io/caffeproject/categories/lorem/</link>
+      <pubDate>Tue, 28 Jun 2016 13:07:31 +0200</pubDate>
+      
+      <guid>https://mrunadon.github.io/caffeproject/categories/lorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New York</title>
+      <link>https://mrunadon.github.io/caffeproject/categories/new-york/</link>
+      <pubDate>Tue, 30 May 2017 16:56:43 +0200</pubDate>
+      
+      <guid>https://mrunadon.github.io/caffeproject/categories/new-york/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other Destinations</title>
+      <link>https://mrunadon.github.io/caffeproject/categories/other-destinations/</link>
+      <pubDate>Tue, 30 May 2017 16:56:43 +0200</pubDate>
+      
+      <guid>https://mrunadon.github.io/caffeproject/categories/other-destinations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://mrunadon.github.io/caffeproject/categories/programming/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://mrunadon.github.io/caffeproject/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pseudo</title>
+      <link>https://mrunadon.github.io/caffeproject/categories/pseudo/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://mrunadon.github.io/caffeproject/categories/pseudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://mrunadon.github.io/caffeproject/categories/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrunadon.github.io/caffeproject/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starting</title>
+      <link>https://mrunadon.github.io/caffeproject/categories/starting/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://mrunadon.github.io/caffeproject/categories/starting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

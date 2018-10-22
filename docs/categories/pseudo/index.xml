@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pseudo on こどもカフェ(仮名)このページは開発中のサンプルページです</title>
+    <link>https://mrunadon.github.io/caffeproject/categories/pseudo/</link>
+    <description>Recent content in Pseudo on こどもカフェ(仮名)このページは開発中のサンプルページです</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://mrunadon.github.io/caffeproject/categories/pseudo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample3: お母さんへの誕生日コース(Birthday Project)</title>
+      <link>https://mrunadon.github.io/caffeproject/post/sample3/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://mrunadon.github.io/caffeproject/post/sample3/</guid>
+      <description>birthday Goto hugo releases and download the appropriate version for your os and architecture.
+Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.</description>
+    </item>
+    
+  </channel>
+</rss>

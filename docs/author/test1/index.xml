@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test1 on こどもカフェ(仮名)このページは開発中のサンプルページです</title>
+    <link>https://mrunadon.github.io/caffeproject/author/test1/</link>
+    <description>Recent content in Test1 on こどもカフェ(仮名)このページは開発中のサンプルページです</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://mrunadon.github.io/caffeproject/author/test1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample3: お母さんへの誕生日コース(Birthday Project)</title>
+      <link>https://mrunadon.github.io/caffeproject/post/sample3/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://mrunadon.github.io/caffeproject/post/sample3/</guid>
+      <description>birthday Goto hugo releases and download the appropriate version for your os and architecture.
+Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.</description>
+    </item>
+    
+    <item>
+      <title>Sample1: 私にもできること My Style</title>
+      <link>https://mrunadon.github.io/caffeproject/post/sample1/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://mrunadon.github.io/caffeproject/post/sample1/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo.
+sss ## this is a comment $ echo this is a command this is a command ## edit the file $vi foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug :wq ## show it $ cat foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug $  Some Definitions There are a few concepts that you need to understand before creating a theme.</description>
+    </item>
+    
+    <item>
+      <title>Sample5: バレンタインチョコレート作戦(Happy Valentine!)</title>
+      <link>https://mrunadon.github.io/caffeproject/post/sample5/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://mrunadon.github.io/caffeproject/post/sample5/</guid>
+      <description>Chocolate ショコラティエが教える、お父さんへのバレンタインチョコレート We&amp;rsquo;ll start with creating a new site with a very basic template. In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added</description>
+    </item>
+    
+    <item>
+      <title>Sample6: 高齢者向けフランス料理講習会(My Grand Father Chef)</title>
+      <link>https://mrunadon.github.io/caffeproject/post/sample6/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://mrunadon.github.io/caffeproject/post/sample6/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML,
+Here&amp;rsquo;s an example: ## this is a comment $ echo this is a command this is a command ## edit the file $vi foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug :wq ## show it $ cat foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug $  Some Definitions There are a few concepts that you need to understand before creating a theme.</description>
+    </item>
+    
+    <item>
+      <title>Sample7: 地域専門職連携会議(研修・懇親会)</title>
+      <link>https://mrunadon.github.io/caffeproject/post/sample7/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://mrunadon.github.io/caffeproject/post/sample7/</guid>
+      <description>Introduction This tutorial will show you how to create
+example ## this is a comment $ echo this is a command this is a command ## edit the file $vi foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug :wq ## show it $ cat foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug $  Some Definitions There are a few concepts that you need to understand before creating a theme.</description>
+    </item>
+    
+    <item>
+      <title>Sample8: 世界の料理をメニューに(World Gourmet Project)</title>
+      <link>https://mrunadon.github.io/caffeproject/post/sample8/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://mrunadon.github.io/caffeproject/post/sample8/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML,
+Here&amp;rsquo;s an example: ## this is a comment $ echo this is a command this is a command ## edit the file $vi foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug :wq ## show it $ cat foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug $  Some Definitions There are a few concepts that you need to understand before creating a theme.</description>
+    </item>
+    
+  </channel>
+</rss>

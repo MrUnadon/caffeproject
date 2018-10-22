@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New York on こどもカフェ(仮名)このページは開発中のサンプルページです</title>
+    <link>https://mrunadon.github.io/caffeproject/categories/new-york/</link>
+    <description>Recent content in New York on こどもカフェ(仮名)このページは開発中のサンプルページです</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 30 May 2017 16:56:43 +0200</lastBuildDate>
+    
+	<atom:link href="https://mrunadon.github.io/caffeproject/categories/new-york/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample9: 臨床心理士カフェスタッフ(Special Care Supporter)</title>
+      <link>https://mrunadon.github.io/caffeproject/post/sample9/</link>
+      <pubDate>Tue, 30 May 2017 16:56:43 +0200</pubDate>
+      
+      <guid>https://mrunadon.github.io/caffeproject/post/sample9/</guid>
+      <description>Setup Ut vel lectus et nulla elementum dapibus.
+next   Alchemy from Henry Jun Wah Lee / Evosia on Vimeo.
+Vestibulum posuere pharetra sem, in venenatis eros vehicula id. Nulla gravida velit a diam interdum mattis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut a tortor sed risus eleifend dapibus. Pellentesque et nisl a elit molestie gravida.</description>
+    </item>
+    
+  </channel>
+</rss>
