@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>こどもカフェ(仮名)このページは開発中のサンプルページです</title>
-    <link>https://mrunadon.github.io/caffeproject/</link>
+    <link>/</link>
     <description>Recent content on こどもカフェ(仮名)このページは開発中のサンプルページです</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 07 Jun 2017 15:36:00 +0530</lastBuildDate>
-    <atom:link href="https://mrunadon.github.io/caffeproject/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Basic Menu</title>
-      <link>https://mrunadon.github.io/caffeproject/menu_basic/</link>
+      <link>/menu_basic/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/menu_basic/</guid>
+      <guid>/menu_basic/</guid>
       <description>一般的なカフェのメニュー ジュース、珈琲、基本ノンアル ラテアートとかもできたらいいな イタリアのお菓子、フランスのデセールあたりを中心 パスタとか</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://mrunadon.github.io/caffeproject/for_trainee/</link>
+      <link>/for_trainee/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/for_trainee/</guid>
+      <guid>/for_trainee/</guid>
       <description>You may contact me through the nearest wormhole This is where my great contact goes</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://mrunadon.github.io/caffeproject/for_trainer/</link>
+      <link>/for_trainer/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/for_trainer/</guid>
+      <guid>/for_trainer/</guid>
       <description>You may contact me through the nearest wormhole This is where my great contact goes</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://mrunadon.github.io/caffeproject/menu/</link>
+      <link>/menu/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/menu/</guid>
+      <guid>/menu/</guid>
       <description>You may contact me through the nearest wormhole This is where my great contact goes</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://mrunadon.github.io/caffeproject/specialists/</link>
+      <link>/specialists/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/specialists/</guid>
+      <guid>/specialists/</guid>
       <description>You may contact me through the nearest wormhole This is where my great contact goes</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://mrunadon.github.io/caffeproject/specialists_collaborators/</link>
+      <link>/specialists_collaborators/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/specialists_collaborators/</guid>
+      <guid>/specialists_collaborators/</guid>
       <description>You may contact me through the nearest wormhole This is where my great contact goes</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://mrunadon.github.io/caffeproject/specialists_staff/</link>
+      <link>/specialists_staff/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/specialists_staff/</guid>
+      <guid>/specialists_staff/</guid>
       <description>You may contact me through the nearest wormhole This is where my great contact goes</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://mrunadon.github.io/caffeproject/trainee_trainer/</link>
+      <link>/trainee_trainer/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/trainee_trainer/</guid>
+      <guid>/trainee_trainer/</guid>
       <description>You may contact me through the nearest wormhole This is where my great contact goes</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://mrunadon.github.io/caffeproject/work_together/</link>
+      <link>/work_together/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/work_together/</guid>
+      <guid>/work_together/</guid>
       <description>You may contact me through the nearest wormhole This is where my great contact goes</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://mrunadon.github.io/caffeproject/work_together_general/</link>
+      <link>/work_together_general/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/work_together_general/</guid>
+      <guid>/work_together_general/</guid>
       <description>You may contact me through the nearest wormhole This is where my great contact goes</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://mrunadon.github.io/caffeproject/work_together_stepup/</link>
+      <link>/work_together_stepup/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/work_together_stepup/</guid>
+      <guid>/work_together_stepup/</guid>
       <description>You may contact me through the nearest wormhole This is where my great contact goes</description>
     </item>
     
     <item>
       <title>Special Menu</title>
-      <link>https://mrunadon.github.io/caffeproject/menu_special/</link>
+      <link>/menu_special/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/menu_special/</guid>
+      <guid>/menu_special/</guid>
       <description>限定メニュー/特別メニュー イベントに応じてフルコースを出しても良い バレンタイン企画ならチョコレートをしてもいい まつりがあれば、屋台出店しても</description>
     </item>
     
     <item>
       <title>プロジェクトのイメージ・骨組み</title>
-      <link>https://mrunadon.github.io/caffeproject/outline/</link>
+      <link>/outline/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/outline/</guid>
+      <guid>/outline/</guid>
       <description>社会の課題だと考えること 医療や福祉の枠で生きている人たちと、実社会との間の乖離 社会復帰でのつまづきが、困難につながっていること 課題の解決に必</description>
     </item>
     
     <item>
       <title>Sample9: 臨床心理士カフェスタッフ(Special Care Supporter)</title>
-      <link>https://mrunadon.github.io/caffeproject/post/sample9/</link>
+      <link>/post/sample9/</link>
       <pubDate>Tue, 30 May 2017 16:56:43 +0200</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/post/sample9/</guid>
+      <guid>/post/sample9/</guid>
       <description>Setup Ut vel lectus et nulla elementum dapibus.
 next   Alchemy from Henry Jun Wah Lee / Evosia on Vimeo.
 Vestibulum posuere pharetra sem, in venenatis eros vehicula id. Nulla gravida velit a diam interdum mattis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut a tortor sed risus eleifend dapibus. Pellentesque et nisl a elit molestie gravida.</description>
@@ -139,10 +139,10 @@ Vestibulum posuere pharetra sem, in venenatis eros vehicula id. Nulla gravida ve
     
     <item>
       <title>Sample4: 専門職研修での利用(オンライン配信)</title>
-      <link>https://mrunadon.github.io/caffeproject/post/sample4/</link>
+      <link>/post/sample4/</link>
       <pubDate>Tue, 28 Jun 2016 13:07:31 +0200</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/post/sample4/</guid>
+      <guid>/post/sample4/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;introduction&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Hugo-Travelify-Theme&lt;/strong&gt; is the Hugo version of the Wordpress theme - Travelify . The source code was adapted from &lt;em&gt;digitalcraftsman&lt;/em&gt;&amp;rsquo;s Icarus theme with a few changes for additional features (Even this README is a fork from his original theme README :)).&lt;/p&gt;
@@ -152,10 +152,10 @@ Vestibulum posuere pharetra sem, in venenatis eros vehicula id. Nulla gravida ve
     
     <item>
       <title>Sample2: できることから始めよう</title>
-      <link>https://mrunadon.github.io/caffeproject/post/sample2/</link>
+      <link>/post/sample2/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/post/sample2/</guid>
+      <guid>/post/sample2/</guid>
       <description>start Start! Do something you can do, and Step up next stage!!
 Introduction to Go Templates Go templates provide an extremely simple template language.
 A unique characteristic of go templates is they are content aware. Variables and content will be sanitized depending on the context of where they are used. More details can be found in the go docs.
@@ -164,10 +164,10 @@ Basic Syntax Go lang templates are html files with the addition of variables and
     
     <item>
       <title>Sample3: お母さんへの誕生日コース(Birthday Project)</title>
-      <link>https://mrunadon.github.io/caffeproject/post/sample3/</link>
+      <link>/post/sample3/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/post/sample3/</guid>
+      <guid>/post/sample3/</guid>
       <description>birthday Goto hugo releases and download the appropriate version for your os and architecture.
 Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
@@ -177,59 +177,59 @@ Step 2. Build the Docs Hugo has its own example site which happens to also be th
     
     <item>
       <title>Sample1: 私にもできること My Style</title>
-      <link>https://mrunadon.github.io/caffeproject/post/sample1/</link>
+      <link>/post/sample1/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/post/sample1/</guid>
+      <guid>/post/sample1/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo.
 sss ## this is a comment $ echo this is a command this is a command ## edit the file $vi foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug :wq ## show it $ cat foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug $  Some Definitions There are a few concepts that you need to understand before creating a theme.</description>
     </item>
     
     <item>
       <title>Sample5: バレンタインチョコレート作戦(Happy Valentine!)</title>
-      <link>https://mrunadon.github.io/caffeproject/post/sample5/</link>
+      <link>/post/sample5/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/post/sample5/</guid>
+      <guid>/post/sample5/</guid>
       <description>Chocolate ショコラティエが教える、お父さんへのバレンタインチョコレート We&amp;rsquo;ll start with creating a new site with a very basic template. In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added</description>
     </item>
     
     <item>
       <title>Sample6: 高齢者向けフランス料理講習会(My Grand Father Chef)</title>
-      <link>https://mrunadon.github.io/caffeproject/post/sample6/</link>
+      <link>/post/sample6/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/post/sample6/</guid>
+      <guid>/post/sample6/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML,
 Here&amp;rsquo;s an example: ## this is a comment $ echo this is a command this is a command ## edit the file $vi foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug :wq ## show it $ cat foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug $  Some Definitions There are a few concepts that you need to understand before creating a theme.</description>
     </item>
     
     <item>
       <title>Sample7: 地域専門職連携会議(研修・懇親会)</title>
-      <link>https://mrunadon.github.io/caffeproject/post/sample7/</link>
+      <link>/post/sample7/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/post/sample7/</guid>
+      <guid>/post/sample7/</guid>
       <description>Introduction This tutorial will show you how to create
 example ## this is a comment $ echo this is a command this is a command ## edit the file $vi foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug :wq ## show it $ cat foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug $  Some Definitions There are a few concepts that you need to understand before creating a theme.</description>
     </item>
     
     <item>
       <title>Sample8: 世界の料理をメニューに(World Gourmet Project)</title>
-      <link>https://mrunadon.github.io/caffeproject/post/sample8/</link>
+      <link>/post/sample8/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/post/sample8/</guid>
+      <guid>/post/sample8/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML,
 Here&amp;rsquo;s an example: ## this is a comment $ echo this is a command this is a command ## edit the file $vi foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug :wq ## show it $ cat foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug $  Some Definitions There are a few concepts that you need to understand before creating a theme.</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://mrunadon.github.io/caffeproject/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrunadon.github.io/caffeproject/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
