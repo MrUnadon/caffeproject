@@ -3,7 +3,8 @@ baseURL = "https://mrunadon.github.io/caffeproject/"
 
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
-title = "ChildFirstCaffe(仮)"
+subtitle="ChildFirstLab. presents"
+title = "Child First Caffe(仮)"
 
 relativeurls = true
 
