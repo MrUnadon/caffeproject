@@ -60,7 +60,7 @@ theme = "hugo-travelify-theme"
 
 [[menu.main]]
     name  = "働くことに不安を感じている方へ"
-    url   = "/work_togather_stepup/"
+    url   = "/work_together_stepup/"
     parent = "カフェで働いてみよう!"
 
 
@@ -99,20 +99,20 @@ theme = "hugo-travelify-theme"
     parent = "カフェ&バーのメニュー"
 
 [[menu.main]]
-    name  = "運営者/スペシャリスト"
-    url   = "/specialist/"
+    name  = "運営者スペシャリスト"
+    url   = "/specialists/"
 
 
 [[menu.main]]
     name  = "こどもカフェ運営チーム"
-    url   = "/specialist_staff/"
-    parent = "運営者/スペシャリスト"
+    url   = "/specialists_staff/"
+    parent = "運営者スペシャリスト"
     weight = 20
 
 [[menu.main]]
     name  = "こどもカフェ特別サポーター"
-    url   = "/specialist_collaborators/"
-    parent = "運営者/スペシャリスト"
+    url   = "/specialists_collaborators/"
+    parent = "運営者スペシャリスト"
 		
 [params.share]
     enable = false
