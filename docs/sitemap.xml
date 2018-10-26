@@ -23,12 +23,12 @@
   </url>
   
   <url>
-    <loc>/specialists/</loc>
+    <loc>/specialist_collaborators/</loc>
     <lastmod>2017-06-07T15:36:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/specialists_collaborators/</loc>
+    <loc>/specialists/</loc>
     <lastmod>2017-06-07T15:36:00+05:30</lastmod>
   </url>
   
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>/specialists_staff/</loc>
+    <loc>/specialist_staff/</loc>
     <lastmod>2017-06-07T15:36:00+05:30</lastmod>
   </url>
   
@@ -119,6 +119,12 @@
   
   <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-06-07T15:36:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -238,12 +244,6 @@
   <url>
     <loc>/tags/theme/</loc>
     <lastmod>2017-05-30T16:56:43+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2017-06-07T15:36:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   

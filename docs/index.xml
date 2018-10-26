@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>こどもカフェ(仮名)このページは開発中のサンプルページです</title>
+    <title>ChildFirstCaffe(仮)</title>
     <link>/</link>
-    <description>Recent content on こどもカフェ(仮名)このページは開発中のサンプルページです</description>
+    <description>Recent content on ChildFirstCaffe(仮)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 07 Jun 2017 15:36:00 +0530</lastBuildDate>
@@ -47,19 +47,19 @@
     
     <item>
       <title>Contact</title>
-      <link>/specialists/</link>
+      <link>/specialist_collaborators/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>/specialists/</guid>
+      <guid>/specialist_collaborators/</guid>
       <description>You may contact me through the nearest wormhole This is where my great contact goes</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/specialists_collaborators/</link>
+      <link>/specialists/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>/specialists_collaborators/</guid>
+      <guid>/specialists/</guid>
       <description>You may contact me through the nearest wormhole This is where my great contact goes</description>
     </item>
     
@@ -110,10 +110,10 @@
     
     <item>
       <title>お店のひと</title>
-      <link>/specialists_staff/</link>
+      <link>/specialist_staff/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>/specialists_staff/</guid>
+      <guid>/specialist_staff/</guid>
       <description>よくいるスタッフ 坂本次郎のプロフィール・しつもん/相談コーナー</description>
     </item>
     

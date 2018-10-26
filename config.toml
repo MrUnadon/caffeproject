@@ -3,7 +3,7 @@ baseURL = "https://mrunadon.github.io/caffeproject/"
 
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
-title = "こどもカフェ(仮名)このページは開発中のサンプルページです"
+title = "ChildFirstCaffe(仮)"
 
 relativeurls = true
 
@@ -22,7 +22,7 @@ theme = "hugo-travelify-theme"
 [params]
     # Tell me who you are
     author = "Jiro Sakamoto"
-    site_description = "一日カフェ店員&料理人になれる & オンライン専門職研修・イベント会場に利用できるカフェ&バー"
+    site_description = "一日カフェ店員&料理人になれる & 子育て/こども福祉研修・イベント会場に利用できるカフェ&バー"
     copyright  = "Copyright"
     avatar = "css/images/avatar.png"
     logo = "css/images/logo.png"
