@@ -1,5 +1,5 @@
 +++
-title = "Sample6: 高齢者向けフランス料理講習会(My Grand Father Chef)"
+title = "料理講習: おじいちゃん向けフランス料理講習会(Home Grand Chef)"
 date = "2015-06-24T13:50:46+02:00"
 author = "test1"
 tags = ["theme"]

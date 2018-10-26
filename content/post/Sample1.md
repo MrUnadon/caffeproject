@@ -1,5 +1,5 @@
 +++
-title = "Sample1: 私にもできること My Style"
+title = "イベント開催: カフェ体験講座"
 date = "2015-06-24T13:50:46+02:00"
 author = "test1"
 tags = ["theme"]

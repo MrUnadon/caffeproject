@@ -127,7 +127,7 @@
     </item>
     
     <item>
-      <title>Sample9: 臨床心理士カフェスタッフ(Special Care Supporter)</title>
+      <title>インタビュー: 臨床心理士カフェスタッフ(Special Care Supporter)</title>
       <link>/post/sample9/</link>
       <pubDate>Tue, 30 May 2017 16:56:43 +0200</pubDate>
       
@@ -138,7 +138,7 @@ Vestibulum posuere pharetra sem, in venenatis eros vehicula id. Nulla gravida ve
     </item>
     
     <item>
-      <title>Sample4: 専門職研修での利用(オンライン配信)</title>
+      <title>イベント: 虐待対応の地域一般向け専門研修(オンライン配信あり)</title>
       <link>/post/sample4/</link>
       <pubDate>Tue, 28 Jun 2016 13:07:31 +0200</pubDate>
       
@@ -151,7 +151,7 @@ Vestibulum posuere pharetra sem, in venenatis eros vehicula id. Nulla gravida ve
     </item>
     
     <item>
-      <title>Sample2: できることから始めよう</title>
+      <title>募集: 子どもカフェイベントサポーター</title>
       <link>/post/sample2/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
@@ -163,7 +163,7 @@ Basic Syntax Go lang templates are html files with the addition of variables and
     </item>
     
     <item>
-      <title>Sample3: お母さんへの誕生日コース(Birthday Project)</title>
+      <title>貸し切りイベント: お母さんへ誕生日コース(Birthday Project)</title>
       <link>/post/sample3/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
@@ -176,7 +176,16 @@ Step 2. Build the Docs Hugo has its own example site which happens to also be th
     </item>
     
     <item>
-      <title>Sample1: 私にもできること My Style</title>
+      <title>イベント: プロが教えるバレンタイン作戦(Happy Valentine!)</title>
+      <link>/post/sample5/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>/post/sample5/</guid>
+      <description>Chocolate ショコラティエが教える、お父さんへのバレンタインチョコレート We&amp;rsquo;ll start with creating a new site with a very basic template. In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added</description>
+    </item>
+    
+    <item>
+      <title>イベント開催: カフェ体験講座</title>
       <link>/post/sample1/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
@@ -186,16 +195,7 @@ sss ## this is a comment $ echo this is a command this is a command ## edit the 
     </item>
     
     <item>
-      <title>Sample5: バレンタインチョコレート作戦(Happy Valentine!)</title>
-      <link>/post/sample5/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>/post/sample5/</guid>
-      <description>Chocolate ショコラティエが教える、お父さんへのバレンタインチョコレート We&amp;rsquo;ll start with creating a new site with a very basic template. In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added</description>
-    </item>
-    
-    <item>
-      <title>Sample6: 高齢者向けフランス料理講習会(My Grand Father Chef)</title>
+      <title>料理講習: おじいちゃん向けフランス料理講習会(Home Grand Chef)</title>
       <link>/post/sample6/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
@@ -205,7 +205,7 @@ Here&amp;rsquo;s an example: ## this is a comment $ echo this is a command this 
     </item>
     
     <item>
-      <title>Sample7: 地域専門職連携会議(研修・懇親会)</title>
+      <title>美容師のための子どもボランティア専門研修(研修・懇親会)</title>
       <link>/post/sample7/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
@@ -215,7 +215,7 @@ example ## this is a comment $ echo this is a command this is a command ## edit 
     </item>
     
     <item>
-      <title>Sample8: 世界の料理をメニューに(World Gourmet Project)</title>
+      <title>食育: 世界の料理をメニューに(World Gourmet Project)</title>
       <link>/post/sample8/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       

@@ -1,5 +1,5 @@
 +++
-title = "Sample3: お母さんへの誕生日コース(Birthday Project)"
+title = "貸し切りイベント: お母さんへ誕生日コース(Birthday Project)"
 date = "2015-08-03T13:39:46+02:00"
 author = "test1"
 tags = ["hugo"]

@@ -1,5 +1,5 @@
 +++
-title = "Sample8: 世界の料理をメニューに(World Gourmet Project)"
+title = "食育: 世界の料理をメニューに(World Gourmet Project)"
 date = "2015-06-24T13:50:46+02:00"
 author = "test1"
 tags = ["theme"]

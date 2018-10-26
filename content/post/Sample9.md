@@ -1,5 +1,5 @@
 +++
-title = "Sample9: 臨床心理士カフェスタッフ(Special Care Supporter)"
+title = "インタビュー: 臨床心理士カフェスタッフ(Special Care Supporter)"
 date = "2017-05-30T16:56:43+02:00"
 tags = ["theme", "hugo", "static sites"]
 categories = ["New York", "Other Destinations"]

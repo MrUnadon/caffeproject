@@ -12,7 +12,16 @@
     
     
     <item>
-      <title>Sample1: 私にもできること My Style</title>
+      <title>イベント: プロが教えるバレンタイン作戦(Happy Valentine!)</title>
+      <link>/post/sample5/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>/post/sample5/</guid>
+      <description>Chocolate ショコラティエが教える、お父さんへのバレンタインチョコレート We&amp;rsquo;ll start with creating a new site with a very basic template. In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added</description>
+    </item>
+    
+    <item>
+      <title>イベント開催: カフェ体験講座</title>
       <link>/post/sample1/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
@@ -22,16 +31,7 @@ sss ## this is a comment $ echo this is a command this is a command ## edit the 
     </item>
     
     <item>
-      <title>Sample5: バレンタインチョコレート作戦(Happy Valentine!)</title>
-      <link>/post/sample5/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>/post/sample5/</guid>
-      <description>Chocolate ショコラティエが教える、お父さんへのバレンタインチョコレート We&amp;rsquo;ll start with creating a new site with a very basic template. In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added</description>
-    </item>
-    
-    <item>
-      <title>Sample6: 高齢者向けフランス料理講習会(My Grand Father Chef)</title>
+      <title>料理講習: おじいちゃん向けフランス料理講習会(Home Grand Chef)</title>
       <link>/post/sample6/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
@@ -41,7 +41,7 @@ Here&amp;rsquo;s an example: ## this is a comment $ echo this is a command this 
     </item>
     
     <item>
-      <title>Sample7: 地域専門職連携会議(研修・懇親会)</title>
+      <title>美容師のための子どもボランティア専門研修(研修・懇親会)</title>
       <link>/post/sample7/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
@@ -51,7 +51,7 @@ example ## this is a comment $ echo this is a command this is a command ## edit 
     </item>
     
     <item>
-      <title>Sample8: 世界の料理をメニューに(World Gourmet Project)</title>
+      <title>食育: 世界の料理をメニューに(World Gourmet Project)</title>
       <link>/post/sample8/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       

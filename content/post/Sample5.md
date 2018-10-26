@@ -1,5 +1,5 @@
 +++
-title = "Sample5: バレンタインチョコレート作戦(Happy Valentine!)"
+title = "イベント: プロが教えるバレンタイン作戦(Happy Valentine!)"
 date = "2015-06-24T13:50:46+02:00"
 author = "test1"
 tags = ["theme"]
