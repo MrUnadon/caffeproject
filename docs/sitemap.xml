@@ -33,11 +33,6 @@
   </url>
   
   <url>
-    <loc>/specialists_staff/</loc>
-    <lastmod>2017-06-07T15:36:00+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/trainee_trainer/</loc>
     <lastmod>2017-06-07T15:36:00+05:30</lastmod>
   </url>
@@ -59,6 +54,11 @@
   
   <url>
     <loc>/menu_special/</loc>
+    <lastmod>2017-06-07T15:36:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/specialists_staff/</loc>
     <lastmod>2017-06-07T15:36:00+05:30</lastmod>
   </url>
   
