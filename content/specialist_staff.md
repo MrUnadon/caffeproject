@@ -9,7 +9,6 @@ disable_comments: true
 
 # よくいるスタッフ
 
-![](js.jpg)
+![](js.jpg){ width=200 }
 
 [**坂本次郎のプロフィール・しつもん/相談コーナー**](https://mrunadon.github.io/unadon_profile/)
-

@@ -101,18 +101,18 @@ theme = "hugo-travelify-theme"
 
 [[menu.main]]
     name  = "運営者スペシャリスト"
-    url   = "/specialists/"
+    url   = "/specialist/"
 
 
 [[menu.main]]
     name  = "こどもカフェ運営チーム"
-    url   = "/specialists_staff/"
+    url   = "/specialist_staff/"
     parent = "運営者スペシャリスト"
     weight = 20
 
 [[menu.main]]
     name  = "こどもカフェ特別サポーター"
-    url   = "/specialists_collaborators/"
+    url   = "/specialist_collaborators/"
     parent = "運営者スペシャリスト"
 		
 [params.share]

@@ -47,19 +47,19 @@
     
     <item>
       <title>Contact</title>
-      <link>/specialist_collaborators/</link>
+      <link>/specialist/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>/specialist_collaborators/</guid>
+      <guid>/specialist/</guid>
       <description>You may contact me through the nearest wormhole This is where my great contact goes</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/specialists/</link>
+      <link>/specialist_collaborators/</link>
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
-      <guid>/specialists/</guid>
+      <guid>/specialist_collaborators/</guid>
       <description>You may contact me through the nearest wormhole This is where my great contact goes</description>
     </item>
     
@@ -114,7 +114,7 @@
       <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
       
       <guid>/specialist_staff/</guid>
-      <description>よくいるスタッフ 坂本次郎のプロフィール・しつもん/相談コーナー</description>
+      <description>よくいるスタッフ { width=200 } 坂本次郎のプロフィール・しつもん/相談コーナー</description>
     </item>
     
     <item>
