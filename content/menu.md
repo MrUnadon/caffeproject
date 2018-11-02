@@ -7,7 +7,12 @@ disable_comments: true
 
 ---
 
-# You may contact me through the nearest wormhole
+# 基本メニュー
 
-This is where my great contact goes
+![](dish1.png)
 
+
+珈琲・各種ソフトドリンク・軽食
+
+
+# 通常メニュー
