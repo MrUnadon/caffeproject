@@ -16,10 +16,10 @@ gallery:
   enable : true
   title : "栽培されているもの"
   images:
-    - "images/slider/slider-img-1.jpg"
+    - "images/slider/slider-img-4.jpg"
     - "images/slider/slider-img-2.jpg"
     - "images/slider/slider-img-3.jpg"
-    - "images/slider/slider-img-4.jpg"
+    - "images/slider/slider-img-1.jpg"
     - "images/slider/slider-img-5.jpg"
   
 ################# Blog ######################
