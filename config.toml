@@ -6,7 +6,7 @@ theme = "restaurant-hugo"
 summaryLength = "10"
 paginate = 4
 publishDir="docs"
-
+hasCJKLanguage = true
 ############################# Plugins ##############################
 
 # CSS Plugins
