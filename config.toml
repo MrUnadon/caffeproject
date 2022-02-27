@@ -1,177 +1,151 @@
+######################## default configuration ####################
+baseURL = "https://demo.gethugothemes.com/restaurant/examplesite/"
+languageCode = "en-us"
+title = "Restaurant Hugo"
+theme = "restaurant-hugo"
+summaryLength = "10"
+paginate = 4
+#publishDir="docs"
 
-baseURL = "https://mrunadon.github.io/caffeproject/"
+############################# Plugins ##############################
 
-ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+# CSS Plugins
+[[params.plugins.css]]
+URL = "css/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "css/slick.css"
+[[params.plugins.css]]
+URL = "css/font-awesome.min.css"
+[[params.plugins.css]]
+URL = "css/animate.min.css"
+[[params.plugins.css]]
+URL = "css/venobox.css"
+[[params.plugins.css]]
+URL = "css/main.css"
+[[params.plugins.css]]
+URL = "css/responsive.css"
 
-subtitle="ChildFirstLab. presents"
-title = "Child First Caffe(仮)"
+# JS Plugins
+[[params.plugins.js]]
+URL = "js/jquery.min.js"
+[[params.plugins.js]]
+URL = "js/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "js/slick.min.js"
+[[params.plugins.js]]
+URL = "js/wow.min.js"
+[[params.plugins.js]]
+URL = "js/venobox.min.js"
+[[params.plugins.js]]
+URL = "js/main.js"
 
-relativeurls = true
+############################## navigation ###############################
 
-publishDir = "docs"
+[[menu.main]]
+name = "Home"
+URL = "hero-area"
+weight = 1
 
-hasCJKLanguage = true
+[[menu.main]]
+name = "About Us"
+URL = "about-us"
+weight = 2
 
-languageCode = "ja-jp"
+[[menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 3
 
-# preservetaxonomynames = true
-theme = "hugo-travelify-theme"
-# GoogleAnalytics = "UA-68204765-1"
-# canonifyURLs = true
-# rssURI = "feed/" #deprecated feature
+[[menu.main]]
+name = "Price"
+URL = "price"
+weight = 4
 
+[[menu.main]]
+name = "News"
+URL = "subscribe"
+weight = 5
+
+[[menu.main]]
+name = "Contact Us"
+URL = "contact-us"
+weight = 6
+
+
+#################### default parameters ################################
 [params]
-    # Tell me who you are
-    author = "Jiro Sakamoto"
-    site_description = "一日カフェ店員&料理人になれる & 子育て/こども福祉研修・イベント会場に利用できるカフェ&バー"
-    copyright  = "Copyright"
-    avatar = "css/images/avatar.png"
-    logo = "css/images/logo.png"
-    disable_mathjax = true # set to true to disable MathJax
+logo = "images/logo.png"
+# meta data
+author = "Themefisher"
+description = "This is meta description"
+# google analitycs ID
+#google_analitycs_id = "Your ID"
+# mainSections
+main_sections = ["post"]
+# copyright
+copyright = "Document & Images Copyright &copy; コンニャクヤ畑\nTemplate Copyright &copy; 2021 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
-    # Format dates with Go's time formatting
-    date_format = "02 January, 2006"
+# Preloader
+[params.preloader]
+enable = false
+preloader = "" # use .png , .svg or .gif format
 
-    # Add custom assets with their paths relative to the static folder
-    custom_css = []
-    custom_js  = []
+################################### Footer ############################
+[params.footer]
+enable = true
+contactInfoTitle = "CONTACT <span>INFO</span> "
+blogTitle = "LATEST <span>BLOG POSTS</span>"
+galleryTitle = "PHOTO <span>STREAM</span>"
+socialTitle = "Follow <span>US</span>"
 
-# Create custom menu entries by defining a label and a link for
-# them. Since you can also link posts, you've the option the
-# place the links before or after them.
-#
-# E.g.: "Home" appears before all linked posts in the menu
-# and "Tags" / "Categories" after them.
+############################ footer contact item
+[[params.footer.contactItem]]
+title = "Telephone"
+icon = "fa fa-phone"
+content = "心の糸電話でお願いします"
 
+[[params.footer.contactItem]]
+title = "Address"
+icon = "fa fa-map-marker"
+content = "コンニャクヤ畑 @妙蓮寺"
 
-[[menu.main]]
-    name  = "プロジェクトのイメージ"
-    url   = "/outline/"
-    weight = 10
+[[params.footer.contactItem]]
+title = "E mail"
+icon = "fa fa-envelope"
+content = "オーナーに祈りを捧げることで解放"
 
-[[menu.main]]
-    name  = "カフェで働いてみよう!"
-    url   = "/work_together/"
+######################### footer gallery
+[[params.footer.gallery]]
+image = "images/slider/slider-img-1.jpg"
 
-[[menu.main]]
-    name  = "一般就労体験希望者へ"
-    url   = "/work_together_general/"
-    parent = "カフェで働いてみよう!"
-    weight = 20
+[[params.footer.gallery]]
+image = "images/slider/slider-img-2.jpg"
 
-[[menu.main]]
-    name  = "働くことに不安を感じている方へ"
-    url   = "/work_together_stepup/"
-    parent = "カフェで働いてみよう!"
+[[params.footer.gallery]]
+image = "images/slider/slider-img-3.jpg"
 
+[[params.footer.gallery]]
+image = "images/slider/slider-img-4.jpg"
 
-[[menu.main]]
-    name  = "研修・イベント利用の方へ"
-    url   = "/trainee_trainer/"
+[[params.footer.gallery]]
+image = "images/slider/slider-img-1.jpg"
 
+[[params.footer.gallery]]
+image = "images/slider/slider-img-2.jpg"
 
-[[menu.main]]
-    name  = "参加者のみなさまへ"
-    url   = "/for_trainee/"
-    parent = "研修・イベント利用の方へ"
-    weight = 20
+######################## Social Icon 
+[[params.footer.socialLink]]
+icon = "facebook"
+#link = "https://fb.com/themefisher"
 
-[[menu.main]]
-    name  = "企画者・講師のみなさまへ"
-    url   = "/for_trainer/"
-    parent = "研修・イベント利用の方へ"
+[[params.footer.socialLink]]
+icon = "twitter"
+#link = "https://fb.com/themefisher"
 
+[[params.footer.socialLink]]
+icon = "dribbble"
+#link = "https://fb.com/themefisher"
 
-
-[[menu.main]]
-    name  = "カフェ&バーのメニュー"
-    url   = "/menu/"
-
-
-[[menu.main]]
-    name  = "通常メニュー"
-    url   = "/menu_basic/"
-    parent = "カフェ&バーのメニュー"
-    weight = 20
-
-[[menu.main]]
-    name  = "特別メニュー"
-    url   = "/menu_special/"
-    parent = "カフェ&バーのメニュー"
-
-[[menu.main]]
-    name  = "運営者スペシャリスト"
-    url   = "/specialist/"
-
-
-[[menu.main]]
-    name  = "こどもカフェ運営チーム"
-    url   = "/specialist_staff/"
-    parent = "運営者スペシャリスト"
-    weight = 20
-
-[[menu.main]]
-    name  = "こどもカフェ特別サポーター"
-    url   = "/specialist_collaborators/"
-    parent = "運営者スペシャリスト"
-		
-[params.share]
-    enable = false
-    facebook = false
-    twitter = false
-    googleplus = false
-    linkedin = false
-    email = false
-
-#[params.privacy]
-#enable = true # false implies switching on tracking application, you can individually turn off applications that you don't want. If enable = true, then all tracking apps are switched off
-#facebook_like = true
-#DisqusShortname = "nikimonikado"
-
-#[social]
-# Add your social network accounts to the profile section on the left
-# by entering your username. The links to your account will be
-# created automatically.
-    #rss             = "Needed" # leave this to blank if you do not want RSS feed icon to appear on top
-    #github          = "nikimonikado"
-    #flickr          = "nikimonikado"
-    #instagram       = "nikimonikado"
-    #youtube         = "nikimonikado"
-    #vimeo           = "nikimonikado"
-    #tumblr          = "nikimonikado"
-    #linkedin        = "nikimonikado"
-    #pinterest       = "nikimonikado"
-    #googleplus      = "nikimonikado"
-    #facebook        = "nikimonikado"
-    #twitter         = "nikimonikado"
-    #email           = "joe@example.com"	
-
-# Enable and disable widgets for the right sidebar
-[params.widgets]
-    recent_articles = true
-    categories = true
-    tags = true
-    tag_cloud = true
-    archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
-    search = true
-    mailchimp = true
-    mailchimpform = "//balaramadurai.us15.list-manage.com/subscribe/post?u=7f4183fa2fe7abe3dc9f4efad&amp;id=49a3dd3745"
-    author = true
-
-[params.slider]
-    enable = true
-    manual = false # Setting manual to true renders the slide selection to only those where the post has a slider=true option enabled
-    num_features = 10 # The slider picks up the banner images from the N most recent posts, where num_features is N.
-
-[Taxonomies]
-    tags = "tags"
-    categories = "categories"
-    author = "author"
-
-## DONE - Menu
-## DONE - slider 
-## DONE - facebook like on homepage
-## DONE - category URL to work
-## DONE - footer
-## DONE - add tags to the footer
-## TODO - some posts without banner
+[[params.footer.socialLink]]
+icon = "instagram"
+#link = "https://fb.com/themefisher"

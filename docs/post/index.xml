@@ -1,123 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Child First Caffe(仮)</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Child First Caffe(仮)</description>
+    <title>Posts on Restaurant Hugo</title>
+    <link>/restaurant/examplesite/post/</link>
+    <description>Recent content in Posts on Restaurant Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Tue, 30 May 2017 16:56:43 +0200</lastBuildDate>
-    
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Dec 2018 12:30:01 +0600</lastBuildDate><atom:link href="/restaurant/examplesite/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>インタビュー: 臨床心理士カフェスタッフ(Special Care Supporter)</title>
-      <link>/post/sample9/</link>
-      <pubDate>Tue, 30 May 2017 16:56:43 +0200</pubDate>
+      <title>Red Pepper Miso Wings 2</title>
+      <link>/restaurant/examplesite/post/red-pepper-miso-wings-2/</link>
+      <pubDate>Wed, 26 Dec 2018 12:30:01 +0600</pubDate>
       
-      <guid>/post/sample9/</guid>
-      <description>Setup Ut vel lectus et nulla elementum dapibus.
-next   Alchemy from Henry Jun Wah Lee / Evosia on Vimeo.
-Vestibulum posuere pharetra sem, in venenatis eros vehicula id. Nulla gravida velit a diam interdum mattis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut a tortor sed risus eleifend dapibus. Pellentesque et nisl a elit molestie gravida.</description>
+      <guid>/restaurant/examplesite/post/red-pepper-miso-wings-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro modi delectus rerum, sed blanditiis eaque eum, ex et officia veritatis id hic.</description>
     </item>
     
     <item>
-      <title>イベント: 虐待対応の地域一般向け専門研修(オンライン配信あり)</title>
-      <link>/post/sample4/</link>
-      <pubDate>Tue, 28 Jun 2016 13:07:31 +0200</pubDate>
+      <title>Red Pepper Miso Wings</title>
+      <link>/restaurant/examplesite/post/red-pepper-miso-wings/</link>
+      <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
       
-      <guid>/post/sample4/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;introduction&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Hugo-Travelify-Theme&lt;/strong&gt; is the Hugo version of the Wordpress theme - Travelify . The source code was adapted from &lt;em&gt;digitalcraftsman&lt;/em&gt;&amp;rsquo;s Icarus theme with a few changes for additional features (Even this README is a fork from his original theme README :)).&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>/restaurant/examplesite/post/red-pepper-miso-wings/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro modi delectus rerum, sed blanditiis eaque eum, ex et officia veritatis id hic.</description>
     </item>
     
     <item>
-      <title>募集: 子どもカフェイベントサポーター</title>
-      <link>/post/sample2/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <title>Homestyle Chicken Pot Pie</title>
+      <link>/restaurant/examplesite/post/homestyle-chicken-pot-pie/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
       
-      <guid>/post/sample2/</guid>
-      <description>start Start! Do something you can do, and Step up next stage!!
-Introduction to Go Templates Go templates provide an extremely simple template language.
-A unique characteristic of go templates is they are content aware. Variables and content will be sanitized depending on the context of where they are used. More details can be found in the go docs.
-Basic Syntax Go lang templates are html files with the addition of variables and functions.</description>
+      <guid>/restaurant/examplesite/post/homestyle-chicken-pot-pie/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, veniam! Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
-      <title>貸し切りイベント: お母さんへ誕生日コース(Birthday Project)</title>
-      <link>/post/sample3/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <title>Skillet Chicken with Potatoes</title>
+      <link>/restaurant/examplesite/post/restaurant/</link>
+      <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
       
-      <guid>/post/sample3/</guid>
-      <description>birthday Goto hugo releases and download the appropriate version for your os and architecture.
-Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.</description>
+      <guid>/restaurant/examplesite/post/restaurant/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, dignissimos. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
-      <title>イベント: プロが教えるバレンタイン作戦(Happy Valentine!)</title>
-      <link>/post/sample5/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      <title>Red Pepper Miso Wings</title>
+      <link>/restaurant/examplesite/post/my-first-post/</link>
+      <pubDate>Wed, 12 Dec 2018 04:28:21 +0600</pubDate>
       
-      <guid>/post/sample5/</guid>
-      <description>Chocolate ショコラティエが教える、お父さんへのバレンタインチョコレート We&amp;rsquo;ll start with creating a new site with a very basic template. In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added</description>
-    </item>
-    
-    <item>
-      <title>イベント開催: カフェ体験講座</title>
-      <link>/post/sample1/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>/post/sample1/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo.
-sss ## this is a comment $ echo this is a command this is a command ## edit the file $vi foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug :wq ## show it $ cat foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug $  Some Definitions There are a few concepts that you need to understand before creating a theme.</description>
-    </item>
-    
-    <item>
-      <title>料理講習: おじいちゃん向けフランス料理講習会(Home Grand Chef)</title>
-      <link>/post/sample6/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>/post/sample6/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML,
-Here&amp;rsquo;s an example: ## this is a comment $ echo this is a command this is a command ## edit the file $vi foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug :wq ## show it $ cat foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug $  Some Definitions There are a few concepts that you need to understand before creating a theme.</description>
-    </item>
-    
-    <item>
-      <title>美容師のための子どもボランティア専門研修(研修・懇親会)</title>
-      <link>/post/sample7/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>/post/sample7/</guid>
-      <description>Introduction This tutorial will show you how to create
-example ## this is a comment $ echo this is a command this is a command ## edit the file $vi foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug :wq ## show it $ cat foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug $  Some Definitions There are a few concepts that you need to understand before creating a theme.</description>
-    </item>
-    
-    <item>
-      <title>食育: 世界の料理をメニューに(World Gourmet Project)</title>
-      <link>/post/sample8/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>/post/sample8/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML,
-Here&amp;rsquo;s an example: ## this is a comment $ echo this is a command this is a command ## edit the file $vi foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug :wq ## show it $ cat foo.md +++ date = &amp;quot;2014-09-28&amp;quot; title = &amp;quot;creating a new theme&amp;quot; +++ bah and humbug $  Some Definitions There are a few concepts that you need to understand before creating a theme.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/restaurant/examplesite/post/my-first-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro modi delectus rerum, sed blanditiis eaque eum, ex et officia veritatis id hic.</description>
     </item>
     
   </channel>

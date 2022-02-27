@@ -1,0 +1,75 @@
+################## Hero area ##################
+hero_area:
+  enable : true
+  bg_image : "images/header.jpg"
+  overlay : true
+
+################### Gallery ###################
+gallery:
+  enable : true
+  title : "栽培されているもの"
+  images:
+    - "images/slider/slider-img-1.jpg"
+    - "images/slider/slider-img-2.jpg"
+    - "images/slider/slider-img-3.jpg"
+    - "images/slider/slider-img-4.jpg"
+
+################ About #######################
+about:
+  enable : true
+  image : "images/cooker-img.png"
+  title : "妙蓮寺で農園を始めることになりましてねぇ"
+  description : "ほら、収穫とかしたらさ、野菜パーティーするから、みんなおいでよw 育ててもいいんだよ、ピーマンとかさ！ダァーイジョウブ、枯らしたりしないから!"
+  
+################# Blog ######################
+blog:
+  enable : true
+  title : "栽培日記とイベント"
+  bg_image : "images/blog/blog-bg.jpg"
+  overlay : true
+
+
+################# food Menu ################
+pricing:
+  enable : true
+  title : "あと野菜売るから！"
+  description: "究極の地産地消よ。買うよね？もちろん買うよね？"
+  subtitle : "販売予定内容(一般販売はしていません)"
+  pricing_item:
+  - title: "やさい"
+    description: "とれたてもぎたて！おいしいよ！"
+    price : "(未定)18億3500万円"
+
+  - title: "やさい"
+    description: "とれたてもぎたて！おいしいよ！"
+    price : "(未定)18億3500万円"
+
+  - title: "やさい"
+    description: "とれたてもぎたて！おいしいよ！"
+    price : "(未定)18億3500万円"
+
+  - title: "やさい"
+    description: "とれたてもぎたて！おいしいよ！"
+    price : "(未定)18億3500万円"
+
+  - title: "やさい"
+    description: "とれたてもぎたて！おいしいよ！"
+    price : "(未定)18億3500万円"
+
+################### Subscription ################
+#subscription:
+#  enable : true
+#  bg_image : "images/subscribe-bg.jpg"
+#  title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
+#  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  #Mailchimp subscription configaration 
+#  form_action : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
+#  formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
+#  overlay : true
+
+################ Contact #######################
+#contact:
+#  enable : true
+#  title: "Let's <span> Contact Us </span>"
+#  subtitle: "SIGN UP FOR EMAIL ALERTS"
+#  form_action : "#" #contact form works with formspree.io
