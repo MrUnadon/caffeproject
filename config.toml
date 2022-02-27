@@ -130,10 +130,8 @@ image = "images/slider/slider-img-3.jpg"
 image = "images/slider/slider-img-4.jpg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-1.jpg"
+image = "images/slider/slider-img-5.jpg"
 
-[[params.footer.gallery]]
-image = "images/slider/slider-img-2.jpg"
 
 ######################## Social Icon 
 [[params.footer.socialLink]]
