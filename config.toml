@@ -5,7 +5,8 @@ title = "Restaurant Hugo"
 theme = "restaurant-hugo"
 summaryLength = "10"
 paginate = 4
-publishDir="docs"
+publishDir="public"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 hasCJKLanguage = true
 ############################# Plugins ##############################
 
