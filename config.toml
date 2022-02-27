@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/restaurant/examplesite/"
+baseURL = "https://github.com/MrUnadon/caffeproject/tree/master/docs/"
 languageCode = "en-us"
-title = "Restaurant Hugo"
+title = "KonnyakuyaFarm"
 theme = "restaurant-hugo"
 summaryLength = "10"
 paginate = 4
