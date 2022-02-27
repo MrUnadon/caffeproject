@@ -17,6 +17,9 @@ blogdown::serve_site()
 
 
 #
+# build site したあとに、docsふぉるだのindex.htmlを、publicのものに差し替えるひつようあり
+#
+
 # 画像のへんしゅう先はdir直下のstatic
 # image garallyはconfig.tomlからファイル指定
 # ぶろぐのへんしゅうさきはdirちょっかのcontent/post
