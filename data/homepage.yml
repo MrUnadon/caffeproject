@@ -4,6 +4,13 @@ hero_area:
   bg_image : "images/header.jpg"
   overlay : true
 
+################ About #######################
+about:
+  enable : true
+  image : "images/cooker-img.png"
+  title : "妙蓮寺で農園を始めることになりましてねぇ"
+  description : "ほら、収穫とかしたらさ、なかよし野菜パーティーするから、みんなおいでよ！ 育ててもいいんだよ、葉野菜とかさ！ダァーイジョウブ、枯らしたりしないから!"
+
 ################### Gallery ###################
 gallery:
   enable : true
@@ -13,13 +20,6 @@ gallery:
     - "images/slider/slider-img-2.jpg"
     - "images/slider/slider-img-3.jpg"
     - "images/slider/slider-img-4.jpg"
-
-################ About #######################
-about:
-  enable : true
-  image : "images/cooker-img.png"
-  title : "妙蓮寺で農園を始めることになりましてねぇ"
-  description : "ほら、収穫とかしたらさ、野菜パーティーするから、みんなおいでよw 育ててもいいんだよ、ピーマンとかさ！ダァーイジョウブ、枯らしたりしないから!"
   
 ################# Blog ######################
 blog:
@@ -33,28 +33,24 @@ blog:
 pricing:
   enable : true
   title : "あと野菜売るから！"
-  description: "究極の地産地消よ。買うよね？もちろん買うよね？"
+  description: "新鮮な野菜だよ？買うよね？もちろん買うよね？"
   subtitle : "販売予定内容(一般販売はしていません)"
   pricing_item:
-  - title: "やさい"
+  - title: "やさい12g"
     description: "とれたてもぎたて！おいしいよ！"
-    price : "(未定)18億3500万円"
+    price : "(未定)1億5500万円"
 
-  - title: "やさい"
+  - title: "やさい24g"
     description: "とれたてもぎたて！おいしいよ！"
-    price : "(未定)18億3500万円"
+    price : "(未定)2億3000万円"
 
-  - title: "やさい"
+  - title: "やさい100g"
     description: "とれたてもぎたて！おいしいよ！"
-    price : "(未定)18億3500万円"
+    price : "(未定)8億4500万円"
 
-  - title: "やさい"
+  - title: "やさい1kg"
     description: "とれたてもぎたて！おいしいよ！"
-    price : "(未定)18億3500万円"
-
-  - title: "やさい"
-    description: "とれたてもぎたて！おいしいよ！"
-    price : "(未定)18億3500万円"
+    price : "(未定)180億7500万円"
 
 ################### Subscription ################
 #subscription:
