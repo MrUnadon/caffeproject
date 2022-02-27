@@ -17,12 +17,12 @@
     </item>
     
     <item>
-      <title>Red Pepper Miso Wings</title>
+      <title>Red test</title>
       <link>/restaurant/examplesite/post/red-pepper-miso-wings/</link>
       <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
       
       <guid>/restaurant/examplesite/post/red-pepper-miso-wings/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro modi delectus rerum, sed blanditiis eaque eum, ex et officia veritatis id hic.</description>
+      <description>Lorem</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
       
       <guid>/restaurant/examplesite/post/homestyle-chicken-pot-pie/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, veniam! Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+      <description>Lorem facere, libero possimus placeat.</description>
     </item>
     
     <item>
@@ -40,16 +40,25 @@
       <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
       
       <guid>/restaurant/examplesite/post/restaurant/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, dignissimos. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+      <description>Lorem test</description>
     </item>
     
     <item>
       <title>Red Pepper Miso Wings</title>
+      <link>/restaurant/examplesite/post/testadd/</link>
+      <pubDate>Wed, 12 Dec 2018 04:28:21 +0600</pubDate>
+      
+      <guid>/restaurant/examplesite/post/testadd/</guid>
+      <description>testteste</description>
+    </item>
+    
+    <item>
+      <title>Test Add</title>
       <link>/restaurant/examplesite/post/my-first-post/</link>
       <pubDate>Wed, 12 Dec 2018 04:28:21 +0600</pubDate>
       
       <guid>/restaurant/examplesite/post/my-first-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro modi delectus rerum, sed blanditiis eaque eum, ex et officia veritatis id hic.</description>
+      <description>TestAdd</description>
     </item>
     
   </channel>
