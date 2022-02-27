@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/MrUnadon/caffeproject/tree/master/docs/</loc>
+    <loc>/caffeproject/post/</loc>
     <lastmod>2018-12-26T12:30:01+06:00</lastmod>
   </url><url>
-    <loc>https://github.com/MrUnadon/caffeproject/tree/master/docs/post/</loc>
+    <loc>/caffeproject/post/red-pepper-miso-wings-2/</loc>
     <lastmod>2018-12-26T12:30:01+06:00</lastmod>
   </url><url>
-    <loc>https://github.com/MrUnadon/caffeproject/tree/master/docs/post/red-pepper-miso-wings-2/</loc>
+    <loc>/caffeproject/</loc>
     <lastmod>2018-12-26T12:30:01+06:00</lastmod>
   </url><url>
-    <loc>https://github.com/MrUnadon/caffeproject/tree/master/docs/post/red-pepper-miso-wings/</loc>
+    <loc>/caffeproject/post/red-pepper-miso-wings/</loc>
     <lastmod>2018-12-26T12:28:47+06:00</lastmod>
   </url><url>
-    <loc>https://github.com/MrUnadon/caffeproject/tree/master/docs/post/homestyle-chicken-pot-pie/</loc>
+    <loc>/caffeproject/post/homestyle-chicken-pot-pie/</loc>
     <lastmod>2018-12-26T12:23:10+06:00</lastmod>
   </url><url>
-    <loc>https://github.com/MrUnadon/caffeproject/tree/master/docs/post/restaurant/</loc>
+    <loc>/caffeproject/post/restaurant/</loc>
     <lastmod>2018-12-26T11:40:41+06:00</lastmod>
   </url><url>
-    <loc>https://github.com/MrUnadon/caffeproject/tree/master/docs/post/testadd/</loc>
+    <loc>/caffeproject/post/testadd/</loc>
     <lastmod>2018-12-12T04:28:21+06:00</lastmod>
   </url><url>
-    <loc>https://github.com/MrUnadon/caffeproject/tree/master/docs/post/my-first-post/</loc>
+    <loc>/caffeproject/post/my-first-post/</loc>
     <lastmod>2018-12-12T04:28:21+06:00</lastmod>
   </url><url>
-    <loc>https://github.com/MrUnadon/caffeproject/tree/master/docs/categories/</loc>
+    <loc>/caffeproject/categories/</loc>
   </url><url>
-    <loc>https://github.com/MrUnadon/caffeproject/tree/master/docs/tags/</loc>
+    <loc>/caffeproject/tags/</loc>
   </url>
 </urlset>
