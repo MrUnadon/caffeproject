@@ -2,7 +2,7 @@
 baseURL = "https://mrunadon.github.io/caffeproject/"
 #"https://demo.gethugothemes.com/restaurant/examplesite/"
 languageCode = "en-us"
-title = "Restaurant Hugo"
+title = "コンニャクヤ畑©"
 theme = "restaurant-hugo"
 summaryLength = "10"
 paginate = 4
@@ -78,8 +78,8 @@ weight = 6
 [params]
 logo = "images/logo.png"
 # meta data
-author = "Themefisher"
-description = "This is meta description"
+author = "unadon"
+description = "lets get together"
 # google analitycs ID
 #google_analitycs_id = "Your ID"
 # mainSections
