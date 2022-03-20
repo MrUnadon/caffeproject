@@ -24,7 +24,9 @@ blogdown::serve_site()
 # image garallyはconfig.tomlからファイル指定
 # ぶろぐのへんしゅうさきはdirちょっかのcontent/post
 # ページ全体の文字などはdata/homepage.yml
-#
+
+# ブログはrootのcontent/postを編集
+# ブログの画像はstatic/image/
 
 
 
