@@ -39,7 +39,12 @@ gallery:
     - "images/slider/slider-img-20.png"
     - "images/slider/slider-img-21.png"
     - "images/slider/slider-img-22.png"
-  
+    - "images/slider/slider-img-23.png"
+    - "images/slider/slider-img-24.png"
+    - "images/slider/slider-img-25.png"
+    - "images/slider/slider-img-26.png"
+    - "images/slider/slider-img-27.png"
+
 ################# Blog ######################
 blog:
   enable : true
