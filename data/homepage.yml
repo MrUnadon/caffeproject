@@ -9,18 +9,36 @@ about:
   enable : true
   image : "images/cooker-img.png"
   title : "妙蓮寺で農園を始めることになりましてねぇ"
-  description : "ほら、収穫とかしたらさ、なかよし野菜パーティーするから、みんなおいでよ！ 育ててもいいんだよ、葉野菜とかさ！ダァーイジョウヴ、枯らしたりしないから!"
+  description : "ほら、収穫とかしたらさ、なかよし野菜パーティーするから、みんなおいでよ！一緒に育てようぜ！ダァーイジョウヴ、枯らしたりしないから!基本は二毛作で、夏と冬に収穫。収穫した野菜をウチに持っていけば、料理になって出てくるから、ダァーイジョウヴ"
 
 ################### Gallery ###################
 gallery:
   enable : true
-  title : "栽培されているもの"
+  title : "畑の様子"
   images:
-    - "images/slider/slider-img-4.jpg"
-    - "images/slider/slider-img-2.jpg"
-    - "images/slider/slider-img-3.jpg"
-    - "images/slider/slider-img-1.jpg"
-    - "images/slider/slider-img-5.jpg"
+    - "images/slider/slider-img-0.png"
+    - "images/slider/slider-img-1.png"
+    - "images/slider/slider-img-2.png"
+    - "images/slider/slider-img-3.png"
+    - "images/slider/slider-img-4.png"
+    - "images/slider/slider-img-5.png"
+    - "images/slider/slider-img-6.png"
+    - "images/slider/slider-img-7.png"
+    - "images/slider/slider-img-8.png"
+    - "images/slider/slider-img-9.png"
+    - "images/slider/slider-img-10.png"
+    - "images/slider/slider-img-11.png"
+    - "images/slider/slider-img-12.png"
+    - "images/slider/slider-img-13.png"
+    - "images/slider/slider-img-14.png"
+    - "images/slider/slider-img-15.png"
+    - "images/slider/slider-img-16.png"
+    - "images/slider/slider-img-17.png"
+    - "images/slider/slider-img-18.png"
+    - "images/slider/slider-img-19.png"
+    - "images/slider/slider-img-20.png"
+    - "images/slider/slider-img-21.png"
+    - "images/slider/slider-img-22.png"
   
 ################# Blog ######################
 blog:
@@ -33,25 +51,30 @@ blog:
 ################# food Menu ################
 pricing:
   enable : true
-  title : "あと野菜売るから！"
-  description: "新鮮な野菜だよ？買うよね？もちろん買うよね？"
-  subtitle : "販売予定内容(一般販売はしていません)"
+  title : "野菜いる？育てたい？収穫したい？"
+  description: "何か育てたい野菜ない？作って食べようぜ！一緒に畑やろう！週末ひまな時にさ、畑くるのも楽しいよ！あと、妙蓮寺の平和を、僕たちと一緒に守ってほしい。"
+  subtitle : "参加・直売野菜のラインナップ"
   pricing_item:
-  - title: "やさい12g"
-    description: "とれたてもぎたて！おいしいよ！"
-    price : "(未定)1億5500万円"
+  - title: "栽培者になる"
+    description: "月間費用を割りますので、お問い合わせぜひ！"
+    price : "月々で軽く飲むぐらいの値段"
 
-  - title: "やさい24g"
-    description: "とれたてもぎたて！おいしいよ！"
-    price : "(未定)2億3000万円"
+  - title: "ほうれん草"
+    description: "ベビーリーフで4月中旬に収穫"
+    price : "2億3000万円(あるいは無料)"
 
-  - title: "やさい100g"
-    description: "とれたてもぎたて！おいしいよ！"
-    price : "(未定)8億4500万円"
+  - title: "水菜"
+    description: "ベビーリーフで4月中旬に収穫"
+    price : "1億4500万円(あるいは無料)"
 
-  - title: "やさい1kg"
+  - title: "おかのり"
     description: "とれたてもぎたて！おいしいよ！"
-    price : "(未定)180億7500万円"
+    price : "30億7500万円(天ぷら無料)"
+
+  - title: "野菜とれたらイベントするから"
+    description: "近所でビール買いに行けばOK"
+    price : "野菜以外の材料費"
+
 
 ################### Subscription ################
 #subscription:
