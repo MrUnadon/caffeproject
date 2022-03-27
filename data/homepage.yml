@@ -80,9 +80,13 @@ pricing:
     description: "ベビーリーフで4月中旬に収穫"
     price : "2億3000万円(あるいは無料)"
 
-  - title: "水菜"
+  - title: "京水菜"
     description: "ベビーリーフで4月中旬に収穫"
     price : "1億4500万円(あるいは無料)"
+
+  - title: "小松菜(KOMATSU-NA)"
+    description: "ベビーリーフで4月中旬に収穫"
+    price : "250円(あるいは無料)"
 
   - title: "おかのり"
     description: "とれたてもぎたて！おいしいよ！"
