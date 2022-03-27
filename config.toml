@@ -97,8 +97,8 @@ preloader = "" # use .png , .svg or .gif format
 enable = true
 contactInfoTitle = "CONTACT <span>INFO</span> "
 blogTitle = "LATEST <span>BLOG POSTS</span>"
-galleryTitle = "PHOTO <span>STREAM</span>"
-socialTitle = "Follow <span>US</span>"
+galleryTitle = "PAST <span>EVENTS</span>"
+#socialTitle = "Follow <span>US</span>"
 
 ############################ footer contact item
 [[params.footer.contactItem]]
@@ -117,68 +117,26 @@ icon = "fa fa-envelope"
 content = "オーナーに祈りを捧げることで解放"
 
 ######################### footer gallery
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-0.png"
+[[params.footer.gallery]]
+image = "images/slider/20211114_takifull.png"
+
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-1.png"
-
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-2.png"
-
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-3.png"
-
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-4.png"
-
-[[params.footer.gallery]]
-image = "images/slider/slider-img-5.png"
-
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-6.png"
-
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-7.png"
-
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-8.png"
-
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-9.png"
-
-[[params.footer.gallery]]
-image = "images/slider/slider-img-10.png"
-
-[[params.footer.gallery]]
-image = "images/slider/slider-img-11.png"
-
-[[params.footer.gallery]]
-image = "images/slider/slider-img-12.png"
-
-[[params.footer.gallery]]
-image = "images/slider/slider-img-13.png"
-
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-14.png"
-
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-15.png"
-
+image = "images/slider/20210626_ChikuCill.png"
 
 ######################## Social Icon 
-[[params.footer.socialLink]]
-icon = "facebook"
+#[[params.footer.socialLink]]
+#icon = "facebook"
 #link = "https://fb.com/themefisher"
 
-[[params.footer.socialLink]]
-icon = "twitter"
+#[[params.footer.socialLink]]
+#icon = "twitter"
 #link = "https://fb.com/themefisher"
 
-[[params.footer.socialLink]]
-icon = "dribbble"
+#[[params.footer.socialLink]]
+#icon = "dribbble"
 #link = "https://fb.com/themefisher"
 
-[[params.footer.socialLink]]
-icon = "instagram"
+#[[params.footer.socialLink]]
+#icon = "instagram"
 #link = "https://fb.com/themefisher"
