@@ -117,11 +117,11 @@ icon = "fa fa-envelope"
 content = "オーナーに祈りを捧げることで解放"
 
 ######################### footer gallery
-[[params.footer.gallery]]
-image = "images/slider/slider-img-0.png"
-
 #[[params.footer.gallery]]
-#image = "images/slider/slider-img-1.png"
+#image = "images/slider/slider-img-0.png"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-1.png"
 
 #[[params.footer.gallery]]
 #image = "images/slider/slider-img-2.png"
@@ -129,11 +129,11 @@ image = "images/slider/slider-img-0.png"
 #[[params.footer.gallery]]
 #image = "images/slider/slider-img-3.png"
 
-[[params.footer.gallery]]
-image = "images/slider/slider-img-4.png"
-
 #[[params.footer.gallery]]
-#image = "images/slider/slider-img-5.png"
+#image = "images/slider/slider-img-4.png"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-5.png"
 
 #[[params.footer.gallery]]
 #image = "images/slider/slider-img-6.png"
@@ -162,8 +162,8 @@ image = "images/slider/slider-img-13.png"
 #[[params.footer.gallery]]
 #image = "images/slider/slider-img-14.png"
 
-[[params.footer.gallery]]
-image = "images/slider/slider-img-15.png"
+#[[params.footer.gallery]]
+#image = "images/slider/slider-img-15.png"
 
 
 ######################## Social Icon 
