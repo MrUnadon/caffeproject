@@ -16,7 +16,7 @@ about:
 ################ Contact/Calendar #######################
 contact:
   enable : true
-  title: "週末、妙蓮寺を守ってるからさ"
+  title: "週末、妙蓮寺を守ってるからさ【イベント予定あり】"
   #subtitle: "週末、妙蓮寺を守ってるからさ"
 # カレンダーのリンクやレイアウトは、
 # themesのhugoのlayoutのpartialsのcontact.htmlを直でいじってる
