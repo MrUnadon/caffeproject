@@ -11,6 +11,17 @@ about:
   title : "妙蓮寺で農園を始めることになりましてねぇ"
   description : "ほら、収穫とかしたらさ、なかよし野菜パーティーするから、みんなおいでよ！一緒に育てようぜ！ダァーイジョウヴ、枯らしたりしないから!基本は二毛作で、夏と冬に収穫。収穫した野菜をウチに持っていけば、料理になって出てくるから、ダァーイジョウヴ"
 
+  #<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23F6BF26&ctz=Asia%2FTokyo&showTitle=1&title=%E3%82%B3%E3%83%B3%E3%83%8B%E3%83%A3%E3%82%AF%E3%83%A4%E7%95%91(C)&showNav=0&showDate=0&showPrint=0&showTabs=1&showCalendars=0&showTz=0&src=YW90azhnaDZjcHZob3FjYjVzdHEyYjg1dTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=amEuamFwYW5lc2UjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237CB342&color=%230B8043" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+################ Contact/Calendar #######################
+contact:
+  enable : true
+  title: "週末、妙蓮寺を守ってるからさ"
+  #subtitle: "週末、妙蓮寺を守ってるからさ"
+# カレンダーのリンクやレイアウトは、
+# themesのhugoのlayoutのpartialsのcontact.htmlを直でいじってる
+
+
 ################### Gallery ###################
 gallery:
   enable : true
@@ -44,6 +55,7 @@ gallery:
     - "images/slider/slider-img-25.png"
     - "images/slider/slider-img-26.png"
     - "images/slider/slider-img-27.png"
+    - "images/slider/slider-img-28.png"
 
 ################# Blog ######################
 blog:
@@ -86,15 +98,9 @@ pricing:
 #  enable : true
 #  bg_image : "images/subscribe-bg.jpg"
 #  title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
-#  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+#  description : ""
   #Mailchimp subscription configaration 
-#  form_action : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
-#  formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
-#  overlay : true
+  #form_action : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
+  #formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
+  #overlay : true
 
-################ Contact #######################
-#contact:
-#  enable : true
-#  title: "Let's <span> Contact Us </span>"
-#  subtitle: "SIGN UP FOR EMAIL ALERTS"
-#  form_action : "#" #contact form works with formspree.io
