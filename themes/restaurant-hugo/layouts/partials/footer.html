@@ -23,7 +23,7 @@
 					<h3>{{ with site.Params.footer.blogTitle }} {{ . | safeHTML }} {{ end }}</h3>
 					<div class="blog">
 						<ul>
-							{{ range first 3 (where site.Pages "Type" "post") }}
+							{{ range first 5 (where site.Pages "Type" "post") }}
 							{{ "<!-- post -->" | safeHTML }}
 							<li>
 								<h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
