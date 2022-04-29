@@ -85,6 +85,38 @@ pricing:
     description: "月間費用を割りますので、お問い合わせぜひ！"
     price : "月々で軽く飲むぐらいの値段"
 
+  - title: "えだまめ"
+    description: "収穫は6月頃かな"
+    price : "15兆500億1000万円(あるいは無料)"
+
+  - title: "ラディッシュ"
+    description: "収穫は5月頃かな"
+    price : "50円(あるいは無料)"
+
+  - title: "小さな蕪"
+    description: "収穫は5月頃かな"
+    price : "108円(あるいは無料)"
+
+  - title: "ミニトマト"
+    description: "収穫は7月頃かな"
+    price : "1パック700億円(あるいは無料)"
+
+  - title: "バジル"
+    description: "収穫は7月頃かな"
+    price : "プライスレス(あるいは無料)"
+
+  - title: "なっす"
+    description: "収穫は7月頃かな"
+    price : "25京5000兆円(あるいは無料)"
+
+  - title: "さんちゅ"
+    description: "収穫は5月頃かな"
+    price : "10円(あるいは無料)"
+
+  - title: "ピーマン"
+    description: "収穫は6~7月頃かな"
+    price : "280円(あるいは無料)"
+
   - title: "ほうれん草"
     description: "ベビーリーフで4月中旬に収穫"
     price : "2億3000万円(あるいは無料)"
