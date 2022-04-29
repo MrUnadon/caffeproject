@@ -27,6 +27,8 @@ gallery:
   enable : true
   title : "畑の様子"
   images:
+    - "images/slider/slider-img-38.png"
+    - "images/slider/slider-img-37.png"
     - "images/slider/slider-img-36.png"
     - "images/slider/slider-img-35.png"
     - "images/slider/slider-img-34.png"
