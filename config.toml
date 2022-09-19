@@ -118,6 +118,10 @@ content = "オーナーに祈りを捧げることで解放"
 
 ######################### footer gallery
 [[params.footer.gallery]]
+image = "images/slider/20220917_ChikuChill.png"
+
+
+[[params.footer.gallery]]
 image = "images/slider/20211114_takifull.png"
 
 
