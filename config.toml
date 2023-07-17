@@ -131,6 +131,10 @@ image = "images/slider/20210626_ChikuCill.png"
 [[params.footer.gallery]]
 image = "images/slider/20221204_takifull.png"
 
+[[params.footer.gallery]]
+image = "images/slider/20230603_chikuchill_2023_summary.png"
+
+
 
 ######################## Social Icon 
 #[[params.footer.socialLink]]
