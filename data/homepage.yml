@@ -18,7 +18,7 @@ about:
 ################ Contact/Calendar #######################
 contact:
   enable : true
-  title: "週末、妙蓮寺を守ってるからさ【イベント予定あり】"
+  title: "週末、妙蓮寺を守ってるからさ！あと、\n2年連続でフォトコンテスト「いいね賞」を受賞したから！"
   #subtitle: "週末、妙蓮寺を守ってるからさ"
 # カレンダーのリンクやレイアウトは、
 # themesのhugoのlayoutのpartialsのcontact.htmlを直でいじってる
@@ -29,6 +29,10 @@ gallery:
   enable : true
   title : "畑の様子"
   images:
+    - "images/slider/slider-img-54.jpg"
+    - "images/slider/slider-img-55.jpg"
+    - "images/slider/slider-img-56.jpg"
+    - "images/slider/slider-img-57.jpg"
     - "images/slider/slider-img-39.jpeg" #
     - "images/slider/slider-img-37.jpeg" #
     - "images/slider/slider-img-36.jpeg" #
